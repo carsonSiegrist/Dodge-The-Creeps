@@ -1,5 +1,7 @@
 # Dodge the Creeps! 
 
+Play here: https://carsonsiegrist.github.io/Dodge-The-Creeps/index.html
+
 This was made by following the Godot tutorial "Your first 2D game" at https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html (Link working as of 09/19/2025). 
 
 I made a couple of modifications on top of the tutorial: 
